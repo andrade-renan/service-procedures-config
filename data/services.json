@@ -36,7 +36,7 @@
         "Preparação da Mistura",
         "Aplicar/Esfumar Raiz",
         "Preparação da Mistura",
-        "Aplicação cor/descoloração",
+        "Aplicação cor/descoloração Curto",
         "Organizar Materiais",
         "Lavagem 1",
         "Lavagem 2",
@@ -90,5 +90,34 @@
         "Aplicar condicionador Complexo",
         "Finalizar Atendimento"
     ],
-    "Mudança de Cor Cabelo Curto": []
+    "Mudança de Cor Cabelo Curto": [
+        "Recepcionar a cliente",
+        "Preparação da Mistura",
+        "Aplicação cor/descoloração Curto",
+        "Organizar Materiais",
+        "Aplicar/Esfumar Raiz",
+        "Lavagem 1",
+        "Lavagem 2",
+        "Secagem do Cabelo",
+        "Lavagem 1",
+        "Lavagem 2",
+        "Aplicar condicionador Complexo",
+        "Finalizar Atendimento"
+    ],
+    "Mechas": [
+        "Recepcionar a cliente",
+        "Preparação da Mistura",
+        "Organizar Materiais",
+        "Separar as Mechas",
+        "Irisar Mechas",
+        "Auxiliar no Material",
+        "Aplicação cor/descoloração Curto",
+        "Remover os papéis das mechas",
+        "Lavagem 1",
+        "Lavagem 2",
+        "Aplicar/Esfumar Raiz",
+        "Aplicar condicionador Complexo",
+        "Organizar Materiais",
+        "Finalizar Atendimento"
+    ]
 }
