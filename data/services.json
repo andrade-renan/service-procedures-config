@@ -6,7 +6,7 @@
         "Organizar Materiais",
         "Lavagem 1",
         "Lavagem 2",
-        "Aplicar condicionador Complexo",
+        "Aplicar condicionador",
         "Finalizar Atendimento"
     ],
     "Camuflagem de Brancos": [
@@ -16,7 +16,7 @@
         "Organizar Materiais",
         "Lavagem 1",
         "Lavagem 2",
-        "Aplicar condicionador Complexo",
+        "Aplicar condicionador",
         "Finalizar Atendimento"
     ],
     "Renovação da Cor": [
@@ -28,7 +28,7 @@
         "Organizar Materiais",
         "Lavagem 1",
         "Lavagem 2",
-        "Aplicar condicionador Complexo",
+        "Aplicar condicionador",
         "Finalizar Atendimento"
     ],
     "Matização": [
@@ -40,7 +40,7 @@
         "Organizar Materiais",
         "Lavagem 1",
         "Lavagem 2",
-        "Aplicar condicionador Complexo",
+        "Aplicar condicionador",
         "Finalizar Atendimento"
     ],
     "Retoque de Ruivos": [
@@ -54,7 +54,7 @@
         "Aplicar/Esfumar Raiz",
         "Lavagem 1",
         "Lavagem 2",
-        "Aplicar condicionador Complexo",
+        "Aplicar condicionador",
         "Finalizar Atendimento"
     ],
     "Criar o Ruivo": [
@@ -67,7 +67,7 @@
         "Lavagem 1",
         "Lavagem 2",
         "Lavagem 1",
-        "Aplicar condicionador Complexo",
+        "Aplicar condicionador",
         "Finalizar Atendimento"
     ],
     "Limpeza de Cor": [
@@ -87,7 +87,7 @@
         "Organizar Materiais",
         "Lavagem 1",
         "Lavagem 2",
-        "Aplicar condicionador Complexo",
+        "Aplicar condicionador",
         "Finalizar Atendimento"
     ],
     "Mudança de Cor Cabelo Curto": [
@@ -101,7 +101,7 @@
         "Secagem do Cabelo",
         "Lavagem 1",
         "Lavagem 2",
-        "Aplicar condicionador Complexo",
+        "Aplicar condicionador",
         "Finalizar Atendimento"
     ],
     "Mechas": [
@@ -116,7 +116,7 @@
         "Lavagem 1",
         "Lavagem 2",
         "Aplicar/Esfumar Raiz",
-        "Aplicar condicionador Complexo",
+        "Aplicar condicionador",
         "Organizar Materiais",
         "Finalizar Atendimento"
     ]

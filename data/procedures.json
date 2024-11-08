@@ -1,74 +1,87 @@
 {
-    "Recepcionar a cliente": [
-        2.90,
-        1.00
-    ],
-    "Preparação da Mistura": [
-        14.30,
-        5.00
-    ],
-    "Aplicar/Esfumar Raiz": [
-        60,
-        21
-    ],
-    "Aplicação cor/descoloração Curto": [
-        85.70,
-        30
-    ],
-    "Aplicação cor/descoloração Médio": [
-        128,
-        45
-    ],
-    "Aplicação cor/descoloração Longo": [
-        171,
-        60
-    ],
-    "Lavagem 1": [
-        25,
-        5
-    ],
-    "Lavagem 2": [
-        18.65,
-        3
-    ],
-    "Aplicar condicionador Simples": [
-        1.43,
-        0.50
-    ],
-    "Aplicar condicionador Complexo": [
-        2.30,
-        0.80
-    ],
-    "Organizar Materiais": [
-        4.29,
-        1.50
-    ],
-    "Finalizar Atendimento": [
-        2.86,
-        1
-    ],
-    "Irisar Mechas": [
-        80,
-        28
-    ],
-    "Separar as Mechas": [
-        7.20,
-        2.50
-    ],
-    "Auxiliar no Material": [
-        71.43,
-        25
-    ],
-    "Remover os papéis das mechas": [
-        80,
-        28
-    ],
-    "Recortar Papel": [
-        7.20,
-        2.50
-    ],
-    "Secagem do Cabelo": [
-        5.71,
-        2.00
-    ]
+    "Recepcionar a cliente": {
+        "Valor": 2.90,
+        "Repasse": 1.00,
+        "Tempo": 5
+    },
+    "Preparação da Mistura": {
+        "Valor": 14.30,
+        "Repasse": 5.00,
+        "Tempo": 5
+    },
+    "Aplicar/Esfumar Raiz": {
+        "Valor": 60,
+        "Repasse": 21,
+        "Tempo": 20
+    },
+    "Aplicação cor/descoloração Curto": {
+        "Valor": 85.70,
+        "Repasse": 30,
+        "Tempo": 20
+    },
+    "Aplicação cor/descoloração Médio": {
+        "Valor": 128,
+        "Repasse": 45,
+        "Tempo": 30
+    },
+    "Aplicação cor/descoloração Longo": {
+        "Valor": 171,
+        "Repasse": 60,
+        "Tempo": 40
+    },
+    "Lavagem 1": {
+        "Valor": 25,
+        "Repasse": 5,
+        "Tempo": 5
+    },
+    "Lavagem 2": {
+        "Valor": 18.65,
+        "Repasse": 3,
+        "Tempo": 5
+    },
+    "Aplicar condicionador": {
+        "Valor": 2.30,
+        "Repasse": 0.80,
+        "Tempo": 3
+    },
+    "Organizar Materiais": {
+        "Valor": 4.29,
+        "Repasse": 1.50,
+        "Tempo": 5
+    },
+    "Finalizar Atendimento": {
+        "Valor": 2.86,
+        "Repasse": 1,
+        "Tempo": 10
+    },
+    "Irisar Mechas": {
+        "Valor": 80,
+        "Repasse": 28,
+        "Tempo": 40
+    },
+    "Separar as Mechas": {
+        "Valor": 7.20,
+        "Repasse": 2.50,
+        "Tempo": 2
+    },
+    "Auxiliar no Material": {
+        "Valor": 71.43,
+        "Repasse": 25,
+        "Tempo": 40
+    },
+    "Remover os papéis das mechas": {
+        "Valor": 80,
+        "Repasse": 28,
+        "Tempo": 15
+    },
+    "Recortar Papel": {
+        "Valor": 7.20,
+        "Repasse": 2.50,
+        "Tempo": 10
+    },
+    "Secagem do Cabelo": {
+        "Valor": 5.71,
+        "Repasse": 2.00,
+        "Tempo": 10
+    }
 }

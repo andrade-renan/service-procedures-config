@@ -1,0 +1,171 @@
+----------> ETAPAS <----------
+Recepcionar a cliente - R$ 2,90 (R$ 1,00) - 5 min
+Preparação da Mistura - R$ 14,30 (R$ 5,00) - 5 min
+Aplicar/Esfumar Raiz - R$ 60 (R$ 21) - 
+Aplicação cor/descoloração Curto - R$ 85,70 (R$ 30) - 20 min
+Aplicação cor/descoloração Médio - R$ 128 (R$ 45) - 30 min
+Aplicação cor/descoloração Longo - R$ 171 (R$ 60) - 40 min
+Lavagem 1 - R$ 25 (R$ 5) - 5 min
+Lavagem 2 - R$ 18,65 (R$ 3) - 5 min
+Aplicar condicionador Complexo - R$ 2,30 (R$ 0.80) - 3 min
+Organizar Materiais - R$ 4,29 (R$ 1.50) - 5 min
+Finalizar Atendimento - R$ 2,86 (R$ 1) - 10 min
+Irisar Mechas - R$ 80 (R$ 28) - 40 min
+Separar as Mechas - R$ 7,20 (R$ 2,50) 2 min
+Auxiliar no Material - R$ 71.43 (R$ 25) - 40 min
+Remover os papéis das mechas - R$ 80 (R$ 28,00)  - 15 min
+Recortar Papel - R$ 7,20 (R$ 2,50) 10 min
+Secagem do Cabelo - R$ 5,71 (R$ 2,00) - 10 min
+
+# RETOQUE DE RAIZ
+- Recepcionar a cliente - R$ 2,90 (R$ 1,00)
+- Preparação da Mistura - R$ 14,30 (R$ 5,00)
+- Aplicar/Esfumar Raiz - R$ 60 (R$ 21)
+- Organizar Materiais - R$ 4,29 (R$ 1.50)
+- Lavagem 1 - R$ 25 (R$ 5)
+- Lavagem 2 - R$ 18,65 (R$ 3)
+- Aplicar condicionador Complexo - R$ 2,30 (R$ 0.80)
+- Finalizar Atendimento - R$ 2,86 (R$ 1)
+-> Valor: R$ 130,3
+-> Comissão: R$ 41,66
+
+# CAMUFLAGEM DE BRANCOS
+- Recepcionar a cliente - R$ 2,90 (R$ 1,00)
+- Preparação da Mistura - R$ 14,30 (R$ 5,00)
+- Aplicação cor/descoloração Curto - R$ 85,70 (R$ 30)
+- Organizar Materiais - R$ 4,29 (R$ 1.50)
+- Lavagem 1 - R$ 25 (R$ 5)
+- Lavagem 2 - R$ 18,65 (R$ 3)
+- Aplicar condicionador Complexo - R$ 2,30 (R$ 0.80)
+- Finalizar Atendimento - R$ 2,86 (R$ 1)
+-> Valor: R$ 156
+-> Comissão: R$ 47,30
+
+# RENOVAÇÃO DA COR
+- Recepcionar a cliente - R$ 2,90 (R$ 1,00)
+- Preparação da Mistura - R$ 14,30 (R$ 5,00)
+- Aplicar/Esfumar Raiz - R$ 60 (R$ 21)
+- Preparação da Mistura - R$ 14,30 (R$ 5,00)
+- Aplicação cor/descoloração Curto - R$ 85,70 (R$ 30)
+- Organizar Materiais - R$ 4,29 (R$ 1.50)
+- Lavagem 1 - R$ 25 (R$ 5)
+- Lavagem 2 - R$ 18,65 (R$ 3)
+- Aplicar condicionador Complexo - R$ 2,30 (R$ 0.80)
+- Finalizar Atendimento - R$ 2,86 (R$ 1)
+-> Valor: R$ 191,86
+-> Comissão: R$ 73,3
+
+# MATIZAÇÃO
+- Recepcionar a cliente - R$ 2,90 (R$ 1,00)
+- Preparação da Mistura - R$ 14,30 (R$ 5,00)
+- Aplicar/Esfumar Raiz - R$ 60 (R$ 21)
+- Organizar Materiais - R$ 4,29 (R$ 1.50)
+- Lavagem 1 - R$ 25 (R$ 5)
+- Lavagem 2 - R$ 18,65 (R$ 3)
+- Aplicar condicionador Complexo - R$ 2,30 (R$ 0.80)
+- Finalizar Atendimento - R$ 2,86 (R$ 1)
+-> Valor: R$ 130,30
+-> Comissão: R$ 41,66
+
+# RETOQUE DE RUIVOS
+- Recepcionar a cliente - R$ 2,90 (R$ 1,00)
+- Preparação da Mistura - R$ 14,30 (R$ 5,00)
+- Aplicar/Esfumar Raiz - R$ 60 (R$ 21)
+- Organizar Materiais - R$ 4,29 (R$ 1.50)
+- Lavagem 1 - R$ 25 (R$ 5)
+- Lavagem 2 - R$ 18,65 (R$ 3)
+- Preparação da Mistura - R$ 14,30 (R$ 5,00)
+- Aplicar/Esfumar Raiz - R$ 60 (R$ 21)
+- Lavagem 1 - R$ 25 (R$ 5)
+- Lavagem 2 - R$ 18,65 (R$ 3)
+- Aplicar condicionador Complexo - R$ 2,30 (R$ 0.80)
+- Finalizar Atendimento - R$ 2,86 (R$ 1)
+-> Valor: R$ 248,25
+-> Comissão: R$ 73,8
+
+# CRIAR O RUIVO
+- Recepcionar a cliente - R$ 2,90 (R$ 1,00)
+Preparação da Mistura - R$ 14,30 (R$ 5,00)
+- Aplicação cor/descoloração Curto - R$ 85,70 (R$ 30)
+- Preparação da Mistura - R$ 14,30 (R$ 5,00)
+- Aplicar/Esfumar Raiz - R$ 60 (R$ 21)
+- Organizar Materiais - R$ 4,29 (R$ 1.50)
+- Lavagem 1 - R$ 25 (R$ 5)
+- Lavagem 2 - R$ 18,65 (R$ 3)
+- Lavagem 1 - R$ 25 (R$ 5)
+- Aplicar condicionador Complexo - R$ 2,30 (R$ 0.80)
+- Finalizar Atendimento - R$ 2,86 (R$ 1)
+-> Valor: R$ 263,85
+-> Comissão: R$ 81,30
+
+# LIMPEZA DE COR
+- Recepcionar a cliente - R$ 2,90 (R$ 1,00)
+- Preparação da Mistura - R$ 14,30 (R$ 5,00)
+- Aplicar/Esfumar Raiz - R$ 60 (R$ 21)
+- Organizar Materiais - R$ 4,29 (R$ 1.50)
+- Lavagem 1 - R$ 25 (R$ 5)
+- Lavagem 2 - R$ 18,65 (R$ 3)
+- Finalizar Atendimento - R$ 2,86 (R$ 1)
+-> Valor: R$ 128
+-> Comissão: R$ 37,50
+
+# DESCOLORAÇÃO CABELO CURTO
+- Recepcionar a cliente - R$ 2,90 (R$ 1,00)
+- Preparação da Mistura - R$ 14,30 (R$ 5,00)
+- Aplicação cor/descoloração Curto - R$ 85,70 (R$ 30)
+- Aplicação cor/descoloração Curto - R$ 85,70 (R$ 30)
+- Aplicar/Esfumar Raiz - R$ 60 (R$ 21)
+- Organizar Materiais - R$ 4,29 (R$ 1.50)
+- Lavagem 1 - R$ 25 (R$ 5)
+- Lavagem 2 - R$ 18,65 (R$ 3)
+- Aplicar condicionador Complexo - R$ 2,30 (R$ 0.80)
+- Finalizar Atendimento - R$ 2,86 (R$ 1)
+-> Valor: R$ 301,70
+-> Comissão: R$ 68,30
+
+# MUDANÇA E COR CABELO CURTO
+- Recepcionar a cliente - R$ 2,90 (R$ 1,00)
+- Preparação da Mistura - R$ 14,30 (R$ 5,00)
+- Aplicação cor/descoloração Curto - R$ 85,70 (R$ 30)
+- Organizar Materiais - R$ 4,29 (R$ 1.50)
+- Aplicar/Esfumar Raiz - R$ 60 (R$ 21)
+- Lavagem 1 - R$ 25 (R$ 5)
+- Lavagem 2 - R$ 18,65 (R$ 3)
+- Aplicar condicionador Complexo - R$ 2,30 (R$ 0.80)
+- Finalizar Atendimento - R$ 2,86 (R$ 1)
+-> Valor: R$ 216
+-> Comissão: R$ 68,3
+
+# MUDANÇA DE COR 2000+ 
+- Recepcionar a cliente - R$ 2,90 (R$ 1,00)
+- Preparação da Mistura - R$ 14,30 (R$ 5,00)
+- Aplicação cor/descoloração Curto - R$ 85,70 (R$ 30)
+- Organizar Materiais - R$ 4,29 (R$ 1.50)
+- Aplicar/Esfumar Raiz - R$ 60 (R$ 21)
+- Lavagem 1 - R$ 25 (R$ 5)
+- Lavagem 2 - R$ 18,65 (R$ 3)
+- Secagem do Cabelo - R$ 5,71 (R$ 2,00)
+- Lavagem 1 - R$ 25 (R$ 5)
+- Lavagem 2 - R$ 18,65 (R$ 3)
+- Aplicar condicionador Complexo - R$ 2,30 (R$ 0.80)
+- Finalizar Atendimento - R$ 2,86 (R$ 1)
+-> Valor: R$ 216
+-> Comissão: R$ 81,66
+
+# MECHAS
+- Recepcionar a cliente - R$ 2,90 (R$ 1,00)
+- Preparação da Mistura - R$ 14,30 (R$ 5,00)
+- Organizar Materiais - R$ 4,29 (R$ 1.50)
+- Separar as Mechas - R$ 7,20 (R$ 2,50)
+- Irisar Mechas - R$ 40 (R$ 14)
+- Auxiliar no Material - R$ 40 (R$ 14)
+- Aplicação cor/descoloração Curto - R$ 85,70 (R$ 30)
+- Remover os papéis das mechas - R$ 40 (R$ 14) 
+- Lavagem 1 - R$ 25 (R$ 5)
+- Lavagem 2 - R$ 18,65 (R$ 3)
+- Aplicar/Esfumar Raiz - R$ 60 (R$ 21)
+- Aplicar condicionador Complexo - R$ 2,30 (R$ 0.80)
+- Organizar Materiais - R$ 4,29 (R$ 1.50)
+- Finalizar Atendimento - R$ 2,86 (R$ 1)
+-> Valor: R$ 347,49
+-> Comissão: R$ 114,30
