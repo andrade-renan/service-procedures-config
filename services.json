@@ -1,0 +1,94 @@
+{
+    "Retoque de Raiz": [
+        "Recepcionar a cliente",
+        "Preparação da Mistura",
+        "Aplicar/Esfumar Raiz",
+        "Organizar Materiais",
+        "Lavagem 1",
+        "Lavagem 2",
+        "Aplicar condicionador Complexo",
+        "Finalizar Atendimento"
+    ],
+    "Camuflagem de Brancos": [
+        "Recepcionar a cliente",
+        "Preparação da Mistura",
+        "Aplicação cor/descoloração Curto",
+        "Organizar Materiais",
+        "Lavagem 1",
+        "Lavagem 2",
+        "Aplicar condicionador Complexo",
+        "Finalizar Atendimento"
+    ],
+    "Renovação da Cor": [
+        "Recepcionar a cliente",
+        "Preparação da Mistura",
+        "Aplicar/Esfumar Raiz",
+        "Preparação da Mistura",
+        "Aplicação cor/descoloração Curto",
+        "Organizar Materiais",
+        "Lavagem 1",
+        "Lavagem 2",
+        "Aplicar condicionador Complexo",
+        "Finalizar Atendimento"
+    ],
+    "Matização": [
+        "Recepcionar a cliente",
+        "Preparação da Mistura",
+        "Aplicar/Esfumar Raiz",
+        "Preparação da Mistura",
+        "Aplicação cor/descoloração",
+        "Organizar Materiais",
+        "Lavagem 1",
+        "Lavagem 2",
+        "Aplicar condicionador Complexo",
+        "Finalizar Atendimento"
+    ],
+    "Retoque de Ruivos": [
+        "Recepcionar a cliente",
+        "Preparação da Mistura",
+        "Aplicar/Esfumar Raiz",
+        "Organizar Materiais",
+        "Lavagem 1",
+        "Lavagem 2",
+        "Preparação da Mistura",
+        "Aplicar/Esfumar Raiz",
+        "Lavagem 1",
+        "Lavagem 2",
+        "Aplicar condicionador Complexo",
+        "Finalizar Atendimento"
+    ],
+    "Criar o Ruivo": [
+        "Recepcionar a cliente",
+        "Preparação da Mistura",
+        "Aplicação cor/descoloração Curto",
+        "Preparação da Mistura",
+        "Aplicar/Esfumar Raiz",
+        "Organizar Materiais",
+        "Lavagem 1",
+        "Lavagem 2",
+        "Lavagem 1",
+        "Aplicar condicionador Complexo",
+        "Finalizar Atendimento"
+    ],
+    "Limpeza de Cor": [
+        "Recepcionar a cliente",
+        "Preparação da Mistura",
+        "Aplicar/Esfumar Raiz",
+        "Organizar Materiais",
+        "Lavagem 1",
+        "Lavagem 2",
+        "Finalizar Atendimento"
+    ],
+    "Descoloração Cabelo Curto": [
+        "Recepcionar a cliente",
+        "Preparação da Mistura",
+        "Aplicação cor/descoloração Curto",
+        "Aplicar/Esfumar Raiz",
+        "Organizar Materiais",
+        "Lavagem 1",
+        "Lavagem 2",
+        "Aplicar condicionador Complexo",
+        "Finalizar Atendimento"
+    ],
+    "Mudança de Cor Cabelo Curto": []
+}

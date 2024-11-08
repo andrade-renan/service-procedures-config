@@ -1,0 +1,74 @@
+{
+    "Recepcionar a cliente": [
+        2.90,
+        1.00
+    ],
+    "Preparação da Mistura": [
+        14.30,
+        5.00
+    ],
+    "Aplicar/Esfumar Raiz": [
+        60,
+        21
+    ],
+    "Aplicação cor/descoloração Curto": [
+        85.70,
+        30
+    ],
+    "Aplicação cor/descoloração Médio": [
+        128,
+        45
+    ],
+    "Aplicação cor/descoloração Longo": [
+        171,
+        60
+    ],
+    "Lavagem 1": [
+        25,
+        5
+    ],
+    "Lavagem 2": [
+        18.65,
+        3
+    ],
+    "Aplicar condicionador Simples": [
+        1.43,
+        0.50
+    ],
+    "Aplicar condicionador Complexo": [
+        2.30,
+        0.80
+    ],
+    "Organizar Materiais": [
+        4.29,
+        1.50
+    ],
+    "Finalizar Atendimento": [
+        2.86,
+        1
+    ],
+    "Irisar Mechas": [
+        80,
+        28
+    ],
+    "Separar as Mechas": [
+        7.20,
+        2.50
+    ],
+    "Auxiliar no Material": [
+        71.43,
+        25
+    ],
+    "Remover os papéis das mechas": [
+        80,
+        28
+    ],
+    "Recortar Papel": [
+        7.20,
+        2.50
+    ],
+    "Secagem do Cabelo": [
+        5.71,
+        2.00
+    ]
+}
